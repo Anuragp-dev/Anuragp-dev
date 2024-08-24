@@ -1,7 +1,7 @@
   <img align="top" width="100%" height="230" alt="mybannergif"  src="https://github.com/Anuragp212/Anuragp212/blob/main/standard%20(2).gif">
 <h1 align="center" style = color:'white'>Hi 👋,  I'm ANURAG P</h1> 
 <h3 align="center">A passionate web developer from India . I am a Mea(r)n Stack Developer and a Programmig Enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragp212&label=Profile%20views&color=0e75b6&style=flat" alt="anuragp212" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
